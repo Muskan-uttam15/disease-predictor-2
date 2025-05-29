@@ -57,7 +57,7 @@ const Index = () => {
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-lg md:text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  healthScanner
+                  HealthScanner
                 </h1>
                 <p className="text-xs md:text-sm text-gray-600 font-medium">
                   Comprehensive AI Medical Analysis & Disease Detection
